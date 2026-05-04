@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-logo="https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png" group-title="Religious",Alabbassia TV (SRT High Quality)
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-logo="https://github.com/Alabbassia2026/Alabbassia-TV-Official/blob/main/Logo%20PNG.png?raw=true" group-title="Religious",Alabbassia TV (SRT High Quality)
 srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia
-#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-logo="https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png" group-title="Religious",Alabbassia TV (RTMP Fallback)
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-logo="https://github.com/Alabbassia2026/Alabbassia-TV-Official/blob/main/Logo%20PNG.png?raw=true" group-title="Religious",Alabbassia TV (RTMP Fallback)
 rtmp://stream.alabbassia.com/live/alabbassia
