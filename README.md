@@ -1,4 +1,4 @@
-# Alabbassia TV - Official Source 
+# Alabbassia TV - Official Source 🇮🇶
 The official repository for Alabbassia TV's streaming links, logos, and technical metadata.
 
 ## 📺 Streaming Links
@@ -15,7 +15,8 @@ These are our 24/7 stable broadcast feeds:
 
 ## 🖼️ Logo & Branding
 Our official logo for IPTV applications:
-`https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png`
+
+![Alabbassia TV Logo](https://github.com/Alabbassia2026/Alabbassia-TV-Official/blob/main/Logo%20PNG.png?raw=true)
 
 ---
 *Managed by the official broadcast administrator.*
