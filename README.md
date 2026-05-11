@@ -1,22 +1,17 @@
 # Alabbassia TV - Official Source 🇮🇶
+
 The official repository for Alabbassia TV's streaming links, logos, and technical metadata.
 
-## 📺 Streaming Links
-These are our 24/7 stable broadcast feeds:
+## 📺 Official Streaming Links (HLS)
+Our broadcast is now available via stable HLS protocol for maximum compatibility:
 
-| Protocol | Link | Mode |
-| :--- | :--- | :--- |
-| **SRT (Primary)** | `srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia` | High Quality |
-| **RTMP (Fallback)** | `rtmp://stream.alabbassia.com/live/alabbassia` | Standard |
-
-## 🌐 Digital Presence
-- **Official Website:** [alabbassia.com](https://alabbassia.com)
-- **Status:** Operational 🟢
+*   **Primary HLS Link:** `https://stream.alabbassia.com/live/alabbassia/index.m3u8`
+*   **Quality:** 1080p Full HD
+*   **Status:** Operational 🟢
 
 ## 🖼️ Logo & Branding
-Our official logo for IPTV applications:
-
-![Alabbassia TV Logo](https://github.com/Alabbassia2026/Alabbassia-TV-Official/blob/main/Logo%20PNG.png?raw=true)
+Official logo for IPTV applications:
+`https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png`
 
 ---
 *Managed by the official broadcast administrator.*
