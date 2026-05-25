@@ -3,15 +3,38 @@
 The official repository for Alabbassia TV's streaming links, logos, and technical metadata.
 
 ## 📺 Official Streaming Links (HLS)
+
 Our broadcast is now available via stable HLS protocol for maximum compatibility:
 
-*   **Primary HLS Link:** `https://stream.alabbassia.com/live/alabbassia/index.m3u8`
-*   **Quality:** 1080p Full HD
-*   **Status:** Operational 🟢
+- Primary HLS Link: https://stream.alabbassia.com/live/alabbassia/index.m3u8
+- Quality: 1080p Full HD
+- Status: Operational 🟢
+
+## 📡 Official M3U Playlist
+
+Official M3U playlist for IPTV players:
+
+https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/alabbassia.m3u
+
+## 🧾 Technical Metadata
+
+Official JSON metadata file:
+
+https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/metadata.json
 
 ## 🖼️ Logo & Branding
-Official logo for IPTV applications:
-`https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png`
 
----
-*Managed by the official broadcast administrator.*
+Official logo for IPTV applications:
+
+https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png
+
+Imgur logo mirror:
+
+https://i.imgur.com/BPyrjO5.png
+
+## ✅ IPTV Entry
+
+```m3u
+#EXTM3U
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="Iraq",Alabbassia TV (1080p)
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
