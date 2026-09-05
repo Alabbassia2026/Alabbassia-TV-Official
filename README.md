@@ -43,6 +43,10 @@ For IPTV applications, channel distribution, technical inquiries, or partnership
 ## ✅ IPTV Entry
 
 
+## ✅ IPTV Entry
+
+```m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" tvg-country="IQ" tvg-language="Arabic" group-title="Religious",Alabbassia TV (1080p)
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
+```
