@@ -9,6 +9,16 @@ Our broadcast is now available via stable HLS protocol for maximum compatibility
 - Primary HLS Link: https://stream.alabbassia.com/live/alabbassia/index.m3u8
 - Quality: 1080p Full HD
 - Status: Operational 🟢
+- 
+## 🌐 Official Website
+
+Official website:
+
+[https://alabbassia.com/](https://alabbassia.com/)
+
+الموقع الرسمي لقناة العباسية الحسينية:
+
+[https://alabbassia.com/](https://alabbassia.com/)
 
 ## 📡 Official M3U Playlist
 
