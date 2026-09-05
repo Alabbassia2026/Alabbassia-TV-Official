@@ -32,7 +32,16 @@ Imgur logo mirror:
 
 https://i.imgur.com/BPyrjO5.png
 
+## 📩 Contact / التواصل
+
+For IPTV applications, channel distribution, technical inquiries, or partnership requests:
+
+لإضافة القناة في تطبيقات IPTV أو طلبات التوزيع أو الاستفسارات الفنية:
+
+**Email:** info@alabbassia.com
+
 ## ✅ IPTV Entry
+
 
 ```m3u
 #EXTM3U
