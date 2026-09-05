@@ -40,8 +40,6 @@ For IPTV applications, channel distribution, technical inquiries, or partnership
 
 **Email:** info@alabbassia.com
 
-## ✅ IPTV Entry
-
 
 ## ✅ IPTV Entry
 
